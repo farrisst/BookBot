@@ -1,4 +1,4 @@
 # BookBot
 Boot.dev course work
-
-First working project in python.
+my first project
+First working project in python.git
